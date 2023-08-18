@@ -171,7 +171,7 @@
 }
 </script>
 
-<style>
+<style scoped>
 .questionnaire {
 margin: 0 auto;
 display: flex;

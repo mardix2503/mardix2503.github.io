@@ -13,18 +13,18 @@ const router = createRouter({
       component: HomeView
     },
     {
-      path: '/about',
+      path: '/About',
       name: 'about',
       component: AboutView
 
     },
     {
-      path: '/questionnaire',
+      path: '/Questionnaire',
       name: 'questionnaire',
       component: QuestionnaireView
     },
     {
-      path: '/products',
+      path: '/Products',
       name: 'products',
       component: ProductsView
     }

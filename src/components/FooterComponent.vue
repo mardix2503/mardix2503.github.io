@@ -145,7 +145,6 @@
 
   .footer-col h4::before {
     content: '';
-    position: absolute;
     left: 0;
     bottom: -10px;
     background-color: #e91e63;
